@@ -1,0 +1,2 @@
+# cmd-game
+cmd arcade
